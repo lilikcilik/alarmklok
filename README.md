@@ -57,7 +57,7 @@ Jikalau, Anda mendapat untung dari ini atau hanya ingin mendorong saya untuk ter
 
 [![Bitcoin Donate](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi) - Anda dapat mengirimi bitcoin kepada saya di alamat ini ```1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi``` atau memindai kode di bawah:
 
-[![QR Code BTC]("https://github.com/pemulabelajar/pemulabelajar/blob/main/assets/qr.png?raw=true" width="100px" height="100px")
+img src="https://github.com/pemulabelajar/pemulabelajar/blob/main/assets/qr.png?raw=true" alt="qrcode" width="100px" height="100px"/>
 
 Terimakasih ❤
 
