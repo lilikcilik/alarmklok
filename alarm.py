@@ -1,11 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# alarmklok version 1.0 spesial 1k subscribe
-# Author by: @pemulabelajare
+# alarmklok version 1.0 alpha spesial 1 subscribe
+# Author by: @pemulabelajar
 # My Github: https://github.com/pemulabelajar/alarmklok
 
-import sys, os
-import subprocess as sp
+import sys, os, subprocess
 from time import sleep
 from time import strftime as tm
 
@@ -22,7 +21,7 @@ banner = """
 def restart():
     python = sys.executable
     os.execl(python, python, * sys.argv)
-    curdir = os.getcwd()
+    os.getcwd()
 
 def loads():
     o = [' .   ',' ..  ',' ... ']
@@ -34,20 +33,20 @@ def start():
         while True:
             waktu = tm('%I:%M:%S %p')
             if waktu == alarm:
-                lup = True
-                print()
-                print()
-                print('\033[0m[\033[93;1m^\033[0m] ALARM SUDAH BERBUNYI\033[0m')
-                print()
-                print('\033[0m[\033[101;97;1m Pesan \033[0m] '+messg)
-                print()
-                print('\033[0m[\033[91;1m-\033[0m] Tekan CTRL + C untuk menunda\033[0m\n')
-                sp.call('mpv .nada/calm',shell=True,stdout=sp.DEVNULL,stderr=sp.STDOUT)
-                restart()
-                break
+                while True:
+                    print()
+                    print()
+                    print('\033[0m[\033[93;1m^\033[0m] ALARM SUDAH BERBUNYI\033[0m')
+                    print()
+                    print('\033[0m[\033[101;97;1m Pesan \033[0m] '+messg)
+                    print()
+                    print('\033[0m[\033[91;1m-\033[0m] Tekan CTRL + C untuk menunda\033[0m\n')
+                    subprocess.call('mpv .nada/calm',shell=True,stdout=subprocess.DEVNULL,stderr=subprocess.STDOUT)
+                    restart()
+                    break
             else:
                 print('\r\033[0m[\033[92;1m#\033[0m] Sekarang pukul\033[91;1m',waktu,end=''),;sys.stdout.flush();sleep(0.5)
-                set = str(waktu)
+                str(waktu)
     except KeyboardInterrupt:
         print()
         print()
@@ -73,6 +72,6 @@ if (__name__=='__main__'):
     os.system('clear')
     print(banner)
     print()
-    print(f'\n\033[0mAlarm di atur pada: \033[92;1m'+h+':'+m+' '+o+' | Tanggal '+tm('%d %B %Y'))
+    print('\n\033[0mAlarm di atur pada: \033[92;1m'+h+':'+m+' '+o+' | Tanggal '+tm('%d %B %Y'))
     print()
     start()
