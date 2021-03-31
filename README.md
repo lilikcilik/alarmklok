@@ -2,12 +2,12 @@
 
 > Sesuai dengan namanya alarmklok, tool ini supaya ketika tidur kita terbangun karena mendengar bunyi, sama seperti alarm biasanya.
 
-<a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"/></a>
-<a href="https://www.codacy.com/gh/pemulabelajar/alarmklok/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pemulabelajar/alarmklok&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/b6266b295f064660b0cd43331fd0e49c" alt="codacy badge"/></a>
-<a href="https://github.com/pemulabelajar/alarmklok/issues"><img src="https://img.shields.io/badge/issues%200-closed-cb2431.svg" alt="issues"/></a>
-<a href="https://github.com/pemulabelajar/alarmklok/releases"><img src="https://img.shields.io/badge/version-1.0%20alpha-blue.svg" alt="version"/></a>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b6266b295f064660b0cd43331fd0e49c)](https://www.codacy.com/gh/pemulabelajar/alarmklok/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pemulabelajar/alarmklok&amp;utm_campaign=Badge_Grade)
+[![Issues](https://img.shields.io/badge/issues%200-closed-cb2431.svg)](https://github.com/pemulabelajar/alarmklok/issues)
+[![Version](https://img.shields.io/badge/version-1.0%20alpha-blue.svg)](https://github.com/pemulabelajar/alarmklok/releases)
 
-<img src="https://github.com/pemulabelajar/alarmklok/blob/master/.image/Screenshot.png?raw=true" alt="screenshot"></a>
+[![Screenshot](https://github.com/pemulabelajar/alarmklok/blob/master/.image/Screenshot.png?raw=true)
 
 ## ℹ Informasi
 ```text
@@ -50,15 +50,16 @@ Saya membuat kode sebisa mungkin, dan saya berharap agar semua orang dapat terba
 
 Jikalau, Anda mendapat untung dari ini atau hanya ingin mendorong saya untuk terus berkarya, ada beberapa cara yang dapat Anda lakukan:
 
--- <a href="https://saweria.co/alantrumbull"><img src="https://img.shields.io/badge/Saweria-00FFFF?style=flat&logo=deezer&logoColor=white" alt="saweria"/></a> - Silahkan yang mau nyawer bisa langsung klik aja
 
--- <a href="https://trakteer.id/alantrumbull"><img src="https://img.shields.io/badge/Trakter-FF0000?style=flat&logo=ko-fi&logoColor=white" alt="trakter"/></a> - Membintangi dan membagikan proyek yang Anda suka
+[![Saweria](https://img.shields.io/badge/Saweria-00FFFF?style=flat&logo=deezer&logoColor=white)](https://saweria.co/alantrumbull) - Silahkan yang mau nyawer bisa langsung klik aja
 
--- <a href="https://www.blockchain.com/btc/address/1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi"><img src="https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white" alt="bitcoin"/></a> - Anda dapat mengirimi bitcoin kepada saya di alamat ini ```1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi``` atau memindai kode di bawah:
+[![Trakteer](https://img.shields.io/badge/Trakter-FF0000?style=flat&logo=ko-fi&logoColor=white)](ttps://trakteer.id/alantrumbull) - Membintangi dan membagikan proyek yang Anda suka
 
-  <img src="https://github.com/pemulabelajar/pemulabelajar/blob/main/assets/qr.png?raw=true" alt="qrcode" width="100px" height="100px"/>
+[![Bitcoin Donate](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi) - Anda dapat mengirimi bitcoin kepada saya di alamat ini ```1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi``` atau memindai kode di bawah:
 
-  Terimakasih ❤
+[![QR Code BTC](https://github.com/pemulabelajar/pemulabelajar/blob/main/assets/qr.png?raw=true width=100px height=100px)
+
+Terimakasih ❤
 
 ## 😋 Berkontribusi
 Terasa ingin berkontribusi dalam tool ini? Bagus! Fork it, pastikan bersama-sama anda berkarya dengan baik, buat PR-mu dengan informasi yang detail.
