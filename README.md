@@ -50,11 +50,11 @@ Saya membuat kode sebisa mungkin, dan saya berharap agar semua orang dapat terba
 
 Jikalau, Anda mendapat untung dari ini atau hanya ingin mendorong saya untuk terus berkarya, ada beberapa cara yang dapat Anda lakukan:
 
-- <a href="https://saweria.co/alantrumbull"><img src="https://img.shields.io/badge/Saweria-00FFFF?style=flat&logo=deezer&logoColor=white" alt="saweria"/></a> - Silahkan yang mau nyawer bisa langsung klik aja
+-- <a href="https://saweria.co/alantrumbull"><img src="https://img.shields.io/badge/Saweria-00FFFF?style=flat&logo=deezer&logoColor=white" alt="saweria"/></a> - Silahkan yang mau nyawer bisa langsung klik aja
 
-- <a href="https://trakteer.id/alantrumbull"><img src="https://img.shields.io/badge/Trakter-FF0000?style=flat&logo=ko-fi&logoColor=white" alt="trakter"/></a> - Membintangi dan membagikan proyek yang Anda suka
+-- <a href="https://trakteer.id/alantrumbull"><img src="https://img.shields.io/badge/Trakter-FF0000?style=flat&logo=ko-fi&logoColor=white" alt="trakter"/></a> - Membintangi dan membagikan proyek yang Anda suka
 
-- <a href="https://www.blockchain.com/btc/address/1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi"><img src="https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white" alt="bitcoin"/></a> - Anda dapat mengirimi bitcoin kepada saya di alamat ini ```1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi``` atau memindai kode di bawah:
+-- <a href="https://www.blockchain.com/btc/address/1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi"><img src="https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white" alt="bitcoin"/></a> - Anda dapat mengirimi bitcoin kepada saya di alamat ini ```1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi``` atau memindai kode di bawah:
 
   <img src="https://github.com/pemulabelajar/pemulabelajar/blob/main/assets/qr.png?raw=true" alt="qrcode" width="100px" height="100px"/>
 
