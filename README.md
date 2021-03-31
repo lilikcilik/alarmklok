@@ -3,6 +3,7 @@
 > Sesuai dengan namanya alarmklok, tool ini supaya ketika tidur kita terbangun karena mendengar bunyi, sama seperti alarm biasanya.
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"/></a>
+<a href="https://www.codacy.com/gh/pemulabelajar/alarmklok/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pemulabelajar/alarmklok&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/b6266b295f064660b0cd43331fd0e49c" alt="codacy badge"/></a>
 <a href="https://github.com/pemulabelajar/alarmklok/issues"><img src="https://img.shields.io/badge/issues%200-closed-cb2431.svg" alt="issues"/></a>
 <a href="https://github.com/pemulabelajar/alarmklok/releases"><img src="https://img.shields.io/badge/version-1.0%20alpha-blue.svg" alt="version"/></a>
 
@@ -10,7 +11,7 @@
 
 ## ℹ Informasi
 ```text
-Nama        : Alarmklok
+Nama        : alarmklok
 Versi       : 1.0 alpha
 Tanggal     : 31 Maret 2021
 Author      : Pemula Belajar
@@ -26,10 +27,8 @@ NB          : Manusia tidak ada yang sempurna
                  - Telegram: https://t.me/alantrumbull
 ```
 
-
 ## ♨ Terinspirasi dari
 Tool ini terinspirasi dari, [kukuklok.com](https://kukuklok.com) dengan memanfaatkan kode sumber terbuka.
-
 
 ## 🔰 Cara menginstall
 Menginstal di termux, gunakan langkah-langkah untuk menginstal tool dengan cara di bawah ini, install paket terlebih dahulu yaitu: [`python`](https://www.python.org) [`mpv`](https://github.com/Neo-Oli/Termux-Mpv) [`git`](https://github.com/termux/termux-packages) ketik perintah
@@ -40,7 +39,6 @@ langkah terakhir adalah menjalankan perintah
 ```python
 python alarm.py
 ```
-
 
 ## 📲 Kontak saya
 Terima kasih banyak kepada teman-teman yang sudah berkunjung ke halaman github, [pemulabelajar](https://github.com/pemulabelajar) untuk teman-teman yang ingin menghubungi saya untuk tujuan bertanya dan hal lainnya silahkan teman-teman bisa hubungi melalui kontak dan sosial media di bawah:
