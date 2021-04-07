@@ -7,12 +7,12 @@
 [![Issues](https://img.shields.io/badge/issues%200-closed-cb2431.svg)](https://github.com/pemulabelajar/alarmklok/issues)
 [![Version](https://img.shields.io/badge/version-1.0%20stable-blue.svg)](https://github.com/pemulabelajar/alarmklok/releases)
 
-![Screenshot](https://github.com/pemulabelajar/alarmklok/blob/master/.image/h.png?raw=true)
+![Screenshot](https://github.com/pemulabelajar/alarmklok/blob/master/.image/Screenshot.png?raw=true)
 
 ## ℹ Informasi
 ```text
 Nama        : alarmklok
-Versi       : 1.0 alpha
+Versi       : 1.0 stable
 Tanggal     : 31 Maret 2021
 Author      : Pemula Belajar
 Tujuan      : Membangunkan kita ketika
