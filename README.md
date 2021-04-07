@@ -5,7 +5,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b6266b295f064660b0cd43331fd0e49c)](https://www.codacy.com/gh/pemulabelajar/alarmklok/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pemulabelajar/alarmklok&amp;utm_campaign=Badge_Grade)
 [![Issues](https://img.shields.io/badge/issues%200-closed-cb2431.svg)](https://github.com/pemulabelajar/alarmklok/issues)
-[![Version](https://img.shields.io/badge/version-1.0%20alpha-blue.svg)](https://github.com/pemulabelajar/alarmklok/releases)
+[![Version](https://img.shields.io/badge/version-1.0%20stable-blue.svg)](https://github.com/pemulabelajar/alarmklok/releases)
 
 ![Screenshot](https://github.com/pemulabelajar/alarmklok/blob/master/.image/Screenshot.png?raw=true)
 
