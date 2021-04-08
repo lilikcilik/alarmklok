@@ -1,6 +1,6 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# alarmklok version 1.0 alpha spesial 1 subscribe
+# alarmklok version 1.0 stable spesial 1 subscribe :v
 # Author by: @pemulabelajar
 # My Github: https://github.com/pemulabelajar/alarmklok
 
@@ -41,7 +41,7 @@ def start():
                     print('\033[0m[\033[101;97;1m Pesan \033[0m] '+messg)
                     print()
                     print('\033[0m[\033[91;1m-\033[0m] Tekan CTRL + C untuk menunda\033[0m\n')
-                    subprocess.call('mpv .nada/calm',shell=True,stdout=subprocess.DEVNULL,stderr=subprocess.STDOUT)
+                    subprocess.call('mpv .sound/calm',shell=True,stdout=subprocess.DEVNULL,stderr=subprocess.STDOUT)
                     restart()
                     break
             else:
