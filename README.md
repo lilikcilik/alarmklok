@@ -12,9 +12,9 @@
 ## :information_source: Informasi tool
 ```text
 Nama        : alarmklok
-Versi       : 1.0 stable
+Versi       : 1.0 (Update 10 April 2021 11:45 AM)
 Tanggal     : 31 Maret 2021
-Author      : Nedi Senja
+Author      : @pemulabelajar
 Tujuan      : Membangunkan kita ketika
               sedang tidur nyenyak.
 Terimakasih : Kepada do'a Ibu
