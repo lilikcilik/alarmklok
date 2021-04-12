@@ -3,7 +3,7 @@
 > Sesuai dengan namanya alarmklok, tool ini supaya ketika tidur kita terbangun karena mendengar bunyi, sama seperti alarm biasanya.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b6266b295f064660b0cd43331fd0e49c)](https://www.codacy.com/gh/pemulabelajar/alarmklok/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pemulabelajar/alarmklok&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ee71a76ccd564874b891f5414c0bd84a)](https://www.codacy.com/gh/delapanbit/alarmklok/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=delapanbit/alarmklok&amp;utm_campaign=Badge_Grade)
 [![Issues](https://img.shields.io/badge/issues%200-closed-cb2431.svg)](https://github.com/delapanbit/alarmklok/issues)
 [![Version](https://img.shields.io/badge/version-1.0%20stable-blue.svg)](https://github.com/delapanbit/alarmklok/releases)
 
