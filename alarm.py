@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # alarmklok version 1.0 stable spesial 1 subscribe :v
 # Author by: @pemulabelajar
-# My Github: https://github.com/pemulabelajar/alarmklok
+# My Github: https://github.com/delapanbit/alarmklok
 
 import sys, os, subprocess
 from time import sleep
@@ -16,7 +16,7 @@ banner = """
 \033[93;1m 88.  .88 88 88.  .88 88    88  88  88 88  `8b. 88      88.  .88 88  `8b.
 \033[93;1m `88888P8 88 `88888P8 88    88  88  88 88   `YP `88888b `888888' 88   `YP
 
-\033[96;1m Version 1.0 dibuat oleh @pemulabelajar ( spesial 1 subscribe ) """
+\033[96;1m Version 1.0 dibuat oleh @delapanbit ( spesial 1 subscribe ) """
 
 def restart():
     python = sys.executable
