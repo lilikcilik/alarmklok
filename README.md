@@ -12,7 +12,7 @@
 ## :information_source: Informasi tool
 ```text
 Nama        : alarmklok
-Versi       : 1.0 (Update 12 April 2021 11:30 AM)
+Versi       : 1.0 (Update 13 April 2021 12:40 AM)
 Tanggal     : 31 Maret 2021
 Author      : Delapan Bit
 Tujuan      : Membangunkan kita ketika
