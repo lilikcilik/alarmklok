@@ -1,11 +1,11 @@
 # Alarmklok
 
-> Sesuai dengan namanya alarmklok, tool ini supaya ketika tidur kita terbangun karena mendengar bunyi, sama seperti alarm biasanya.
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ee71a76ccd564874b891f5414c0bd84a)](https://www.codacy.com/gh/delapanbit/alarmklok/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=delapanbit/alarmklok&amp;utm_campaign=Badge_Grade)
 [![Issues](https://img.shields.io/badge/issues%200-closed-cb2431.svg)](https://github.com/delapanbit/alarmklok/issues)
 [![Version](https://img.shields.io/badge/version-1.0%20stable-blue.svg)](https://github.com/delapanbit/alarmklok/releases)
+
+> Sesuai dengan namanya alarmklok, tool ini supaya ketika tidur kita terbangun karena mendengar bunyi, sama seperti alarm biasanya.
 
 ![Screenshot](https://github.com/delapanbit/alarmklok/blob/master/.image/Screenshot.png?raw=true)
 
@@ -48,9 +48,9 @@ Terima kasih banyak kepada teman-teman yang sudah mampir ke profile github, [del
 ## :sparkling_heart: Dukung proyek saya
 Saya membuat kode sebisa mungkin, dan saya berharap agar semua orang dapat terbantu dengan tool ini, anda dapat mengintegrasikan dan menggunakan tool ini secara gratis, anda bahkan dapat mengubah kode sumber dan mendistribusikan kembali bahkan menjualnya kembali.
 
-Jikalau, Anda mendapat untung dari ini atau hanya ingin mendorong saya untuk terus berkarya, ada beberapa cara yang dapat Anda lakukan:
+Jika, Anda terbantu dengan proyek ini atau hanya ingin mendorong saya untuk terus berkarya, ada beberapa cara yang dapat Anda lakukan:
 
-- [![Saweria](https://img.shields.io/badge/Saweria-FFA500?style=flat&logo=deezer&logoColor=white)](https://saweria.co/alantrumbull) - Silahkan yang mau nyawer bisa langsung klik aja
+- [![Saweria](https://img.shields.io/badge/💰%20Saweria-FFA500?style=flat&logo=none&logoColor=white)](https://saweria.co/alantrumbull) - Silahkan yang mau nyawer bisa langsung klik aja
 
 - [![Trakteer](https://img.shields.io/badge/Trakter-FF0000?style=flat&logo=ko-fi&logoColor=white)](https://trakteer.id/alantrumbull) - Membintangi dan membagikan proyek yang Anda suka
 
