@@ -3,9 +3,8 @@
 [![Issues](https://img.shields.io/badge/issues%200-closed-cb2431.svg)](https://github.com/delapanbit/alarmklok/issues)
 [![Version](https://img.shields.io/badge/version-1.0%20stable-blue.svg)](https://github.com/delapanbit/alarmklok/releases)
 
-![Screenshot](https://github.com/delapanbit/alarmklok/blob/master/.image/Screenshot.png?raw=true)
-
 ## ℹ Informasi tool
+```text
 Nama        : alarmklok
 Versi       : 1.0 (update 13 April 2021 12:40 AM)
 Tanggal     : 31 Maret 2021
@@ -20,6 +19,7 @@ NB          : Manusia tidak ada yang sempurna
               Mohon laporkan kritik atau saran
               Ke - Email: nedq016@gmail.com
                  - Telegram: https://t.me/alantrumbull
+```
 
 ## ❇ Terinspirasi dari
 Tool ini terinspirasi dari, [kukuklok.com](https://kukuklok.com) dengan memanfaatkan kode sumber terbuka.
