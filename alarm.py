@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # alarmklok version 1.0 stable spesial 1 subscribe :v
-# Author by: @delapanbit
+# Upgrade by: @delapanbit
 # My Github: https://github.com/delapanbit/alarmklok
 
 import sys, os, subprocess
