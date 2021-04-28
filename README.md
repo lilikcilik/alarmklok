@@ -28,7 +28,7 @@ NB          : Manusia tidak ada yang sempurna
 ```
 
 ## :sparkle: Terinspirasi dari
-Tool ini buatan om, [karjok](https://github.com/karjok) terimakasih kepada author: karjok pangesty.
+Tool ini di buat oleh [karjok pangesty](https://github.com/karjok) terimakasih sudah membuat tool alarm.
 
 ## :beginner: Cara menginstall
 Menginstal di termux, gunakan langkah-langkah untuk menginstal tool dengan cara di bawah ini, install paket terlebih dahulu yaitu: [`python`](https://www.python.org) [`mpv`](https://github.com/Neo-Oli/Termux-Mpv) [`git`](https://github.com/termux/termux-packages) ketik perintah
